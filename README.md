@@ -1,3 +1,9 @@
+## Project Preview
+
+Customer segmentation visualization:
+
+![Customer Segments](visuals/customer_clusters_with_centers.png)
+
 # Customer Segmentation Analysis using Machine Learning
 
 ## Project Overview
@@ -126,6 +132,14 @@ This project demonstrates how data analysis and machine learning techniques can 
 Customer segmentation allows businesses to focus their marketing efforts more effectively and improve overall customer engagement.
 
 ---
+## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Customer Segmentation
+- K-Means Clustering
+- Business Insight Generation
 
 ## Author
 
