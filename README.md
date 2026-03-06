@@ -1,8 +1,3 @@
-## Project Preview
-
-Customer segmentation visualization:
-
-![Customer Segments](visuals/customer_segments.png)
 
 # Customer Segmentation Analysis using Machine Learning
 
