@@ -2,7 +2,7 @@
 
 Customer segmentation visualization:
 
-![Income vs Spending](visuals/income_vs_spending.png)
+![Customer Segments](visuals/customer_segments.png)
 
 # Customer Segmentation Analysis using Machine Learning
 
